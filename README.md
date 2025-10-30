@@ -1,7 +1,7 @@
 # Expense Management Application
 
 ## 🌐 Live Demo  
-[Smart Expence Management System](https://smart-expense-management-system-5uku9x36z-navdips-projects.vercel.app/)
+[Smart Expence Management System](https://smart-expense-management-system.vercel.app)
 
 A complete, production-quality frontend-only expense management system built with React, TypeScript, and cookie-based persistence.
 
